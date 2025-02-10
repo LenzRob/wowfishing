@@ -15,7 +15,7 @@ Dieser Bot verwendet Computer Vision und Automatisierungsbibliotheken, um auf de
 
 1. Stelle sicher, dass alle erforderlichen Bibliotheken installiert sind:
 
-``pip install numpy opencv-python mss pyautogui pygame_widgets``
+``pip install numpy opencv-python mss pyautogui``
 
 2. Platziere das Musterbild (target15.png) im images Ordner.
 
