@@ -9,6 +9,8 @@ Dieser Bot verwendet Computer Vision und Automatisierungsbibliotheken, um auf de
 - Template Matching: Vergleicht das aufgenommene Bild mit einem vorgegebenen Muster.
 - Automatisierte Aktionen: Bewegt die Maus zum gefundenen Muster und führt Klick- und Tastatureingaben aus.
 
+![til](assets/fishing.gif)
+
 **Nutzung:**
 
 1. Stelle sicher, dass alle erforderlichen Bibliotheken installiert sind:
