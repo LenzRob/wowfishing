@@ -1,4 +1,4 @@
-# Fishing Bot
+# Fishing Bot (unfinished)
 **Beschreibung:**
 
 Dieser Bot verwendet Computer Vision und Automatisierungsbibliotheken, um auf dem Bildschirm nach bestimmten Mustern zu suchen und darauf zu reagieren. Nutzung erfolgt auf eigene Gefahr und die Erstellung diente nur zu Forschungszwecken.
